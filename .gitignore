@@ -3,5 +3,6 @@
 artifacts/
 *.user
 *.vsidx
+.dtbcache.v2
 .DS_Store
 foxtail.settings.json

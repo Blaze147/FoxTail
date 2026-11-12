@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/FoxTail.Core/FoxTail.Core.csproj" />
+    <Project Path="src/FoxTail.Desktop/FoxTail.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/FoxTail.Tests/FoxTail.Tests.csproj" />
+    <Project Path="tests/FoxTail.UiTests/FoxTail.UiTests.csproj" />
+  </Folder>
+</Solution>
